@@ -12,7 +12,7 @@ Feel free to copy or perhaps add improvements for this README file or to the rep
 
 You can use the [editor on GitHub](https://github.com/JeannetteE/UppsalaWorkshop/edit/master/README.md) to maintain and preview the content for your website in Markdown files. But you can also *Clone* the repo and work on it in an ATOM Editor, and a GitHub Desktop Client.
 
-**Whenever** you commit to this repository, GitHub Pages will run a theme from [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site and smoothen the the content created in your Markdown files.
+Whenever you commit to this repository, GitHub Pages will run a theme from [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site and smoothen the the content created in your Markdown files.
 
 ### Markdown
 
